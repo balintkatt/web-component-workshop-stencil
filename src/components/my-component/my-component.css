@@ -1,0 +1,26 @@
+:host {
+  display: block;
+}
+.rating {
+  color: orange;
+  font-size: 3em;
+  cursor: pointer;
+}
+
+.rating-container{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.rating-comment{
+  margin-left: 20px;
+  align-self: center;
+}
+
+.product-name{
+  display: flex;
+  font-weight: bold;
+  font-size: 1.3em;
+}
+
