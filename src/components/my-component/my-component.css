@@ -3,7 +3,7 @@
 }
 .rating {
   color: orange;
-  font-size: 3em;
+  /* font-size: 3em; */
   cursor: pointer;
 }
 
