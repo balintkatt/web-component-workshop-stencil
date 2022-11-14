@@ -24,7 +24,7 @@ export const config: Config = {
     },
     angularOutputTarget({
       componentCorePackage: '@web-components/dist/components',
-      directivesProxyFile: './../wc-workshop/src/libs/stencil-generated/proxies.ts',
+      directivesProxyFile: './../web-component-workshop-final/src/libs/stencil-generated/proxies.ts',
       valueAccessorConfigs: angularValueAccessorBindings,
     }),
   ],
